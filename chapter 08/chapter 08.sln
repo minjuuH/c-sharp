@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch08-09", "ch08-09\ch08-09.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex_claculator", "ex_claculator\ex_claculator.csproj", "{40D3707C-3CDA-4509-8104-2A6B1E4809D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch08-03", "ch08-03\ch08-03.csproj", "{63D453B2-4FF4-460B-A3B7-DC45A2047797}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{40D3707C-3CDA-4509-8104-2A6B1E4809D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40D3707C-3CDA-4509-8104-2A6B1E4809D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40D3707C-3CDA-4509-8104-2A6B1E4809D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63D453B2-4FF4-460B-A3B7-DC45A2047797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63D453B2-4FF4-460B-A3B7-DC45A2047797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63D453B2-4FF4-460B-A3B7-DC45A2047797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63D453B2-4FF4-460B-A3B7-DC45A2047797}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
