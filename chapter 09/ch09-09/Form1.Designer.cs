@@ -37,17 +37,19 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(25, 24);
+            this.textBox1.Location = new System.Drawing.Point(36, 36);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(214, 50);
+            this.textBox1.Size = new System.Drawing.Size(304, 73);
             this.textBox1.TabIndex = 3;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(69, 104);
+            this.button1.Location = new System.Drawing.Point(99, 156);
+            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(128, 23);
+            this.button1.Size = new System.Drawing.Size(183, 34);
             this.button1.TabIndex = 2;
             this.button1.Text = "글꼴 변경";
             this.button1.UseVisualStyleBackColor = true;
@@ -55,11 +57,12 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(267, 158);
+            this.ClientSize = new System.Drawing.Size(381, 237);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "FontDialogApp";
             this.ResumeLayout(false);
