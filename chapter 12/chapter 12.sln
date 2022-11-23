@@ -13,6 +13,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch12-05", "ch12-05\ch12-05.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PenApp", "PenApp\PenApp.csproj", "{8FEC966F-F08E-4E92-9298-FFF7272F13D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidBrushApp", "SolidBrushApp\SolidBrushApp.csproj", "{0D016171-7238-47D4-B5C5-D0F5B0A70C3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextureBrushApp", "TextureBrushApp\TextureBrushApp.csproj", "{F654F425-F1F7-45F3-99C7-B1F0A570D936}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HatchBrushApp", "HatchBrushApp\HatchBrushApp.csproj", "{19F0A2BB-6156-4D9F-AEAD-E7526E545955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearGradientApp", "LinearGradientApp\LinearGradientApp.csproj", "{DC49119E-033A-4F7C-9335-4342F179969A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathGradientBrushApp", "PathGradientBrushApp\PathGradientBrushApp.csproj", "{843C020E-F28C-4DCE-BFBF-CFA2A6479893}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FontApp", "FontApp\FontApp.csproj", "{B9FACC5C-32AD-4D5F-B500-F03F9CBBB7EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +51,30 @@ Global
 		{8FEC966F-F08E-4E92-9298-FFF7272F13D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FEC966F-F08E-4E92-9298-FFF7272F13D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FEC966F-F08E-4E92-9298-FFF7272F13D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D016171-7238-47D4-B5C5-D0F5B0A70C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D016171-7238-47D4-B5C5-D0F5B0A70C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D016171-7238-47D4-B5C5-D0F5B0A70C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D016171-7238-47D4-B5C5-D0F5B0A70C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F654F425-F1F7-45F3-99C7-B1F0A570D936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F654F425-F1F7-45F3-99C7-B1F0A570D936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F654F425-F1F7-45F3-99C7-B1F0A570D936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F654F425-F1F7-45F3-99C7-B1F0A570D936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19F0A2BB-6156-4D9F-AEAD-E7526E545955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19F0A2BB-6156-4D9F-AEAD-E7526E545955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19F0A2BB-6156-4D9F-AEAD-E7526E545955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19F0A2BB-6156-4D9F-AEAD-E7526E545955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC49119E-033A-4F7C-9335-4342F179969A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC49119E-033A-4F7C-9335-4342F179969A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC49119E-033A-4F7C-9335-4342F179969A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC49119E-033A-4F7C-9335-4342F179969A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{843C020E-F28C-4DCE-BFBF-CFA2A6479893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{843C020E-F28C-4DCE-BFBF-CFA2A6479893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{843C020E-F28C-4DCE-BFBF-CFA2A6479893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{843C020E-F28C-4DCE-BFBF-CFA2A6479893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9FACC5C-32AD-4D5F-B500-F03F9CBBB7EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FACC5C-32AD-4D5F-B500-F03F9CBBB7EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FACC5C-32AD-4D5F-B500-F03F9CBBB7EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FACC5C-32AD-4D5F-B500-F03F9CBBB7EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
